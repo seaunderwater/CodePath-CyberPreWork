@@ -7,7 +7,7 @@ Time spent: 2 hours spent in total
 The following **required** functionality is completed:
 
 1. [ ]  Required: Setup 
-    -  [checkbox:checked ]  Download and install Burp
+    -  [-]  Download and install Burp
     -  [ ]  Configure your browser to direct traffic through Burp
     -  [ ]  Can successfully view HTTPS traffic in sa
     -  [ ]  Register an account at security.shephard.com
