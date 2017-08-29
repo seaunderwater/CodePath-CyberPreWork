@@ -7,7 +7,7 @@ Time spent: 2 hours spent in total
 The following **required** functionality is completed:
 
 1. [ ]  Required: Setup 
-    -  [ ]  Download and install Burp
+    -  [checkbox:checked ]  Download and install Burp
     -  [ ]  Configure your browser to direct traffic through Burp
     -  [ ]  Can successfully view HTTPS traffic in sa
     -  [ ]  Register an account at security.shephard.com
@@ -33,11 +33,11 @@ GIF created with [LiceCap](http://www.cockos.com/licecap/).
 
 ## Notes
 
-Describe any challenges encountered while building the app.
+Bonus 2 was difficult to complete as many students were transferring funds between bank accounts at the same time. 
 
 ## License
 
-    Copyright [yyyy] [name of copyright owner]
+    Copyright [2017] [Milan Bhatia]
 
     Licensed under the Apache License, Version 2.0 (the "License");
     you may not use this file except in compliance with the License.
