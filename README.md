@@ -1,6 +1,6 @@
-# Cybersecurity Pre-Work - *Security Shepherd Username Here* 
+# Cybersecurity Pre-Work - mbhatia4336
 
-Time spent: **X** hours spent in total 
+Time spent: 2 hours spent in total 
 
 ## User Stories
 
